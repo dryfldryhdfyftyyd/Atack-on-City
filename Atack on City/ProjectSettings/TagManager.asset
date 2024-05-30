@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ledge
+  - Enemy
+  - Path
+  - Base
+  - Enemy_Destroyer1
+  - Enemy_Destroyer2
+  - Enemy_Destroyer3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - better
+  - Water
+  - UI
+  - whatIsPlayer
+  - 
+  - 
+  - whatIsWall
+  - whatIsGround
+  - whatIsLedge
+  - 
+  - 
+  - whatIsKnife
+  - 
+  - 
+  - 
+  - 
+  - 
+  - postProcessing
+  - dontRender
+  - bloom
+  - WhatIsEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
